@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ApplySyntax",
+		"Babel",
+		"Colorsublime",
+		"EditorConfig",
+		"Elm Language Support",
+		"Gutter Color",
+		"JSON Reindent",
+		"npm",
+		"Package Control",
+		"PowerShell",
+		"Seti_UI",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-jshint"
+	]
+}
