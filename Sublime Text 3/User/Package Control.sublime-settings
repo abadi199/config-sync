@@ -5,18 +5,25 @@
 	],
 	"installed_packages":
 	[
+		"ApplySyntax",
 		"Babel",
 		"Babel Snippets",
 		"Colorsublime",
+		"EditorConfig",
 		"Elm Language Support",
 		"Emmet",
+		"Gutter Color",
+		"JSON Reindent",
 		"JSX",
+		"npm",
 		"Package Control",
+		"PowerShell",
 		"Schemr",
 		"Seti_UI",
 		"Seti_UX",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-jshint",
 		"Themr"
 	]
 }
