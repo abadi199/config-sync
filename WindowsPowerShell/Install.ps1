@@ -1,0 +1,1 @@
+cmd /c mklink /D $env:userprofile\Documents\WindowsPowerShell (Resolve-Path .).Path
