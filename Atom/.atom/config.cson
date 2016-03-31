@@ -1,0 +1,48 @@
+"*":
+  "atom-beautify":
+    _analyticsUserId: "158da8e6-a5ab-4678-8eb3-515576ef7f3d"
+  "atom-material-ui":
+    fonts: {}
+  core:
+    autoHideMenuBar: true
+    disabledPackages: [
+      "swackets"
+      "grammar-token-limit"
+    ]
+    excludeVcsIgnoredPaths: false
+    packagesWithKeymapsDisabled: [
+      "tab-switcher"
+    ]
+    themes: [
+      "seti-ui"
+      "seti-syntax"
+    ]
+  editor:
+    fontFamily: "Fira Code Retina"
+    fontSize: 12
+    invisibles: {}
+    showInvisibles: true
+  "elm-format":
+    binary: "c:\\Programs\\elm-format\\elm-format.exe"
+    showNotifications: false
+  "exception-reporting":
+    userId: "d067c6e3-c0df-1089-c5ee-24d0e7d49f38"
+  "file-icons": {}
+  "grammar-token-limit":
+    maxTokensPerLine: 400
+  "language-elm": {}
+  linter:
+    errorPanelHeight: 300
+    showErrorPanel: false
+  "linter-eslint": {}
+  swackets:
+    syntax: "Parentheses"
+  "tab-switcher": {}
+  welcome:
+    showOnStartup: false
+  whitespace: {}
+".ini.source":
+  editor:
+    showIndentGuide: true
+"file-types":
+  "sqlDataProvider": 'text.sql'

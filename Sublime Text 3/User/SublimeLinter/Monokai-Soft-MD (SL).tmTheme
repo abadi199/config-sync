@@ -2,46 +2,36 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>gutterSettings</key>
+	<dict>
+		<key>background</key>
+		<string>#263238</string>
+		<key>divider</key>
+		<string>#75715E</string>
+		<key>foreground</key>
+		<string>#75715E</string>
+	</dict>
 	<key>name</key>
-	<string>Monokai</string>
+	<string>Monokai Soft MD</string>
+	<key>semanticClass</key>
+	<string>theme.dark.monokai_soft_md</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#272822</string>
+				<string>#263238</string>
 				<key>caret</key>
-				<string>#F8F8F0</string>
+				<string>#FFCC00</string>
 				<key>foreground</key>
-				<string>#F8F8F2</string>
+				<string>#B1BFC2</string>
 				<key>invisibles</key>
-				<string>#3B3A32</string>
+				<string>#65737E</string>
 				<key>lineHighlight</key>
-				<string>#3E3D32</string>
+				<string>#00000030</string>
 				<key>selection</key>
-				<string>#49483E</string>
-				<key>findHighlight</key>
-				<string>#FFE792</string>
-				<key>findHighlightForeground</key>
-				<string>#000000</string>
-				<key>selectionBorder</key>
-				<string>#222218</string>
-				<key>activeGuide</key>
-				<string>#9D550FB0</string>
-
-				<key>bracketsForeground</key>
-				<string>#F8F8F2A5</string>
-				<key>bracketsOptions</key>
-				<string>underline</string>
-
-				<key>bracketContentsForeground</key>
-				<string>#F8F8F2A5</string>
-				<key>bracketContentsOptions</key>
-				<string>underline</string>
-
-				<key>tagsOptions</key>
-				<string>stippled_underline</string>
+				<string>#80CBC421</string>
 			</dict>
 		</dict>
 		<dict>
@@ -52,7 +42,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#75715E</string>
+				<string>#696d75</string>
 			</dict>
 		</dict>
 		<dict>
@@ -63,7 +53,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E6DB74</string>
+				<string>#eeca4e</string>
 			</dict>
 		</dict>
 		<dict>
@@ -74,10 +64,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#AE81FF</string>
+				<string>#a6a9ee</string>
 			</dict>
 		</dict>
-
 		<dict>
 			<key>name</key>
 			<string>Built-in constant</string>
@@ -86,7 +75,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#AE81FF</string>
+				<string>#a6a9ee</string>
 			</dict>
 		</dict>
 		<dict>
@@ -97,7 +86,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#AE81FF</string>
+				<string>#a6a9ee</string>
 			</dict>
 		</dict>
 		<dict>
@@ -145,7 +134,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#66D9EF</string>
+				<string>#6dcee0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -158,7 +147,7 @@
 				<key>fontStyle</key>
 				<string>underline</string>
 				<key>foreground</key>
-				<string>#A6E22E</string>
+				<string>#eeca4e</string>
 			</dict>
 		</dict>
 		<dict>
@@ -171,7 +160,7 @@
 				<key>fontStyle</key>
 				<string>italic underline</string>
 				<key>foreground</key>
-				<string>#A6E22E</string>
+				<string>#a4c817</string>
 			</dict>
 		</dict>
 		<dict>
@@ -184,7 +173,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#A6E22E</string>
+				<string>#a3d53e</string>
 			</dict>
 		</dict>
 		<dict>
@@ -197,7 +186,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#FD971F</string>
+				<string>#ee7f17</string>
 			</dict>
 		</dict>
 		<dict>
@@ -223,7 +212,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#A6E22E</string>
+				<string>#a3d53e</string>
 			</dict>
 		</dict>
 		<dict>
@@ -236,7 +225,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#66D9EF</string>
+				<string>#7acacb</string>
 			</dict>
 		</dict>
 		<dict>
@@ -249,7 +238,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#66D9EF</string>
+				<string>#7acacb</string>
 			</dict>
 		</dict>
 		<dict>
@@ -262,7 +251,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#66D9EF</string>
+				<string>#7acacb</string>
 			</dict>
 		</dict>
 		<dict>
@@ -284,11 +273,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#F92672</string>
+				<string>#d54a36</string>
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#F8F8F0</string>
+				<string>#e8e8e1</string>
 			</dict>
 		</dict>
 		<dict>
@@ -299,23 +288,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#AE81FF</string>
+				<string>#a6a9ee</string>
 				<key>foreground</key>
-				<string>#F8F8F0</string>
+				<string>#e8e8e1</string>
 			</dict>
 		</dict>
-		<dict>
-			<key>name</key>
-			<string>JSON String</string>
-			<key>scope</key>
-			<string>meta.structure.dictionary.json string.quoted.double.json</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#CFCFC2</string>
-			</dict>
-		</dict>
-
 		<dict>
 			<key>name</key>
 			<string>diff.header</string>
@@ -360,36 +337,6 @@
 				<string>#E6DB74</string>
 			</dict>
 		</dict>
-
-		<dict>
-			<key>scope</key>
-			<string>constant.numeric.line-number.find-in-files - match</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#AE81FFA0</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>scope</key>
-			<string>entity.name.filename</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#E6DB74</string>
-			</dict>
-		</dict>
-
-		<dict>
-			<key>scope</key>
-			<string>message.error</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#F83333</string>
-			</dict>
-		</dict>
-
 	<dict>
             <key>name</key>
             <string>SublimeLinter Warning</string>
@@ -423,5 +370,11 @@
         </dict></array>
 	<key>uuid</key>
 	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
+	<key>author</key>
+	<string>Youssef Haiti</string>
+	<key>comment</key>
+	<string>Forked from https://github.com/CalebAmesbury/Monokai-Soft and adapted for https://github.com/equinusocio/material-theme</string>
 </dict>
 </plist>
