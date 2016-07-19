@@ -29,3 +29,6 @@ function prompt {
     }
     return ' '
 }
+
+Import-Module PSReadline
+Set-PSReadlineKeyHandler -Key Tab -Function Complete
